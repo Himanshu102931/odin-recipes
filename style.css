@@ -1,0 +1,12 @@
+div {
+    display: block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: beige;
+    font-size: 16px;
+}
+
+div.butter-chicken  .ingredients .ingredient-list {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
